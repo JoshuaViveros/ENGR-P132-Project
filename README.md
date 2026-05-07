@@ -9,7 +9,7 @@ Amazon and Walmart web scrapper used to compare prices and find the cheapest pro
 - Joshua Viveros
 
 # How to use
-1. Copy code to compiler(VSCode)
+1. Copy "price_compare.py" to compiler(VSCode)
 2. Clear google chrome cookies
 3. Run file name in terminal
    (python price_compare.py)
@@ -30,5 +30,12 @@ Amazon and Walmart web scrapper used to compare prices and find the cheapest pro
 - VSCode
 - VSCodium
 
+# Other Files
+- APISCraperWalmart.py
+   - API based web scraper to try and avoid bot detection(unfinished)
+- amazon_scraper.py
+   - Individual code for amazon scraper(unfinished)
+ - scraperWalmart.py
+   - Manual scraping code for walmart(unfinished)
 
 
