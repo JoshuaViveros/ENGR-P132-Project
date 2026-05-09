@@ -1,7 +1,7 @@
 # ENGR-P132-Project
 Final project for ENGR P132
 
-Amazon and Walmart web scrapper used to compare prices and find the cheapest product.
+Amazon and Walmart web scraper used to compare prices and find the cheapest product.
 
 # Contributors
 - Kevin Lopez
